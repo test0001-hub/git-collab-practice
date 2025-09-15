@@ -1,2 +1,2 @@
 # git-collab-practice
-实验练习
+Git练习
